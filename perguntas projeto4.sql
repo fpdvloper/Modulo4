@@ -31,17 +31,3 @@ order by
 limit 10;
 
 
-select
-	actor, characters 
-from
-	characters_v4
-where
-	characters
-like 
-	'%stark';
-    
-    
-select distinct
-	director
-from
-	got_episodes_v4;

@@ -22,7 +22,7 @@
   
   <h1>O que usamos?</h1>
 
-  https://img2.gratispng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg
+  ![image](https://user-images.githubusercontent.com/56053290/214438046-eee1e357-53b1-42b0-8257-cd0baa5f3d62.png)
   
   
   

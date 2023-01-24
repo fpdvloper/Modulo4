@@ -45,3 +45,7 @@ select distinct
 	director
 from
 	got_episodes_v4;
+	
+	
+	
+	

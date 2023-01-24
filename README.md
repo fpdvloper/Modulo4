@@ -59,5 +59,8 @@
   
   
    <h2>GRÁFICOS</h2>
+   
+   ![image](https://user-images.githubusercontent.com/56053290/214444361-a81232f1-d2bf-4d34-978c-648fae8594e5.png)
+
 
   

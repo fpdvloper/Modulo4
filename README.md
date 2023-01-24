@@ -36,3 +36,17 @@
   
   1 - Quais são as casas do norte?
   
+  ![image](https://user-images.githubusercontent.com/56053290/214440546-fcfd2526-efc1-4d28-a44b-5b5d092ad314.png)
+
+  2 -
+  
+  
+  
+  3 -
+  
+  
+  4 -
+  
+  
+  5 -
+  

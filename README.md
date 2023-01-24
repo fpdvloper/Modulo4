@@ -40,7 +40,7 @@
 
   <h3>2 - Qual foi o episodio com a avaliação maior que 9.5?</h3>
   
-  ![image](https://user-images.githubusercontent.com/56053290/214442514-784c1461-bb1b-4493-abe3-ef67ef931626.png)
+  ![image](https://user-images.githubusercontent.com/56053290/214446518-9257610f-3d34-4fcd-9745-f3fbd776ea9a.png)
 
   
   <h3>3 - os atores que mais aparecem na série?  </h3>

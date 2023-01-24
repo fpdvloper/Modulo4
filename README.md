@@ -28,6 +28,7 @@
   
   
   <h1>Modelo relacional</h1>
+  
   ![image](https://user-images.githubusercontent.com/56053290/214442946-4064d043-b095-4a60-880d-5c0215a8a762.png)
 
   

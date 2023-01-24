@@ -1,5 +1,5 @@
 # BANCO DE DADOS - TRABALHO EM GRUPO - MÓDULO 4
-
+<hr><hr>
 <h3>O objetivo desse projeto é montar um dashboard com base no conjunto de dados que nos foi disponibilizado pela Resilia. Após escolher qual tema, iremos analisar e manipular esses dados utilizando a ferramenta MySQL Workbench.</h3>
 
 
@@ -17,4 +17,6 @@
  <h3>⚔️ Criar visualizações dos dados com base nas perguntas elaboradas utilizando planilhas.
  
  <h3>⚔️ Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionados.
+  
+<hr><hr>
 

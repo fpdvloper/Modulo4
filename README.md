@@ -19,4 +19,17 @@
  <h3>⚔️ Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionados.
   
 <hr>
+  
+  <h1>O que usamos?</h1>
 
+  https://img2.gratispng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg
+  
+  
+  
+  
+  <h1>Modelo relacional</h1>
+  
+  
+  
+  
+  <h1>Consultas</h1>

@@ -35,21 +35,26 @@
   <h1>Consultas</h1>
   
   <h3>1 - Quais são as casas do norte?</h3>
+  
   ![image](https://user-images.githubusercontent.com/56053290/214440546-fcfd2526-efc1-4d28-a44b-5b5d092ad314.png)
 
   <h3>2 - Qual foi o episodio com a avaliação maior que 9.5?</h3>
+  
   ![image](https://user-images.githubusercontent.com/56053290/214440620-0b454cda-0603-4525-ac3f-feb306a59b90.png)
 
   
   <h3>3 - os atores que mais aparecem na série?  </h3>
+  
   ![image](https://user-images.githubusercontent.com/56053290/214440749-41a50849-e821-4326-87ef-0baee9c21188.png)
 
   
   <h3>4 - Quais os personagens da casa Stark?  </h3>
+  
   ![image](https://user-images.githubusercontent.com/56053290/214440888-47c9b5a5-3b6c-481e-bb2e-961860cb0f03.png)
 
   
   <h3>5 - Qual os diretores envolvidos na série?</h3>
+  
   ![image](https://user-images.githubusercontent.com/56053290/214441019-ad7ff2ff-fa8a-4d7f-993e-fb8c1c8e131f.png)
 
   

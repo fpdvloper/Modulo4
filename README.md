@@ -8,13 +8,13 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 
 <h1>REQUISITOS e PASSO A PASSO:</h1>
 
- ⚔️Ideação/Brainstorm sobre perguntas que podem ser respondidas pelos dados: Análise o conjunto de dados selecionado para que as perguntas sejam pertinentes.
+ <h3>⚔️Ideação/Brainstorm sobre perguntas que podem ser respondidas pelos dados: Análise o conjunto de dados selecionado para que as perguntas sejam pertinentes.
  
- ⚔️<h3>Estruturar o esquema do banco de dados: A partir da avaliação do conjunto de dados fornecidos, modelar as tabelas do banco. Não é necessário mapear todas as colunas de todas  as tabelas. Mantenha sua implementação simples construindo um modelo que atende às perguntas elaboradas pelo grupo.
+ <h3>⚔️Estruturar o esquema do banco de dados: A partir da avaliação do conjunto de dados fornecidos, modelar as tabelas do banco. Não é necessário mapear todas as colunas de todas  as tabelas. Mantenha sua implementação simples construindo um modelo que atende às perguntas elaboradas pelo grupo.
  
- ⚔️<h2>Realizar carga no banco: Com base no esquema desenhado e criado, subir os dados presentes nos arquivos para o banco de dados a fim de verificar o funcionamento da solução encontrada.
+ <h3>⚔️Realizar carga no banco: Com base no esquema desenhado e criado, subir os dados presentes nos arquivos para o banco de dados a fim de verificar o funcionamento da solução encontrada.
  
- ⚔️<h2>Criar visualizações dos dados com base nas perguntas elaboradas utilizando planilhas.
+ <h3>⚔️Criar visualizações dos dados com base nas perguntas elaboradas utilizando planilhas.
  
- ⚔️<h2>Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionados.
+ <h3>⚔️Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionados.
 

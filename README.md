@@ -45,7 +45,7 @@
   
   <h3>3 - os atores que mais aparecem na série?  </h3>
   
-  ![image](https://user-images.githubusercontent.com/56053290/214440749-41a50849-e821-4326-87ef-0baee9c21188.png)
+  ![image](https://user-images.githubusercontent.com/56053290/214442557-2053d3da-db54-4dfc-ae3d-f8e20c2ee7c8.png)
 
   
   <h3>4 - Quais os personagens da casa Stark?  </h3>

@@ -56,5 +56,8 @@
   <h3>5 - Qual os diretores envolvidos na série?</h3>
   
   ![image](https://user-images.githubusercontent.com/56053290/214442682-520c0a38-e2d3-49a9-b9ef-d3fc0120f71f.png)
+  
+  
+   <h2>GRÁFICOS</h2>
 
   

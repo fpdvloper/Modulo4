@@ -36,7 +36,7 @@
   
   <h3>1 - Quais são as casas do norte?</h3>
   
-  ![image](https://user-images.githubusercontent.com/56053290/214440546-fcfd2526-efc1-4d28-a44b-5b5d092ad314.png)
+  ![image](https://user-images.githubusercontent.com/56053290/214442456-9381ec48-7cb6-437f-ab14-b04772e2d0f8.png)
 
   <h3>2 - Qual foi o episodio com a avaliação maior que 9.5?</h3>
   

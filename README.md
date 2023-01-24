@@ -50,7 +50,7 @@
   
   <h3>4 - Quais os personagens da casa Stark?  </h3>
   
-  ![image](https://user-images.githubusercontent.com/56053290/214440888-47c9b5a5-3b6c-481e-bb2e-961860cb0f03.png)
+  ![image](https://user-images.githubusercontent.com/56053290/214442619-ee0aeb2f-e1bd-49e9-a070-cceeac1df41f.png)
 
   
   <h3>5 - Qual os diretores envolvidos na série?</h3>

@@ -22,7 +22,7 @@
   
   <h1>O que usamos?</h1>
 
-  ![image](https://user-images.githubusercontent.com/56053290/214438247-3c09ed5a-d230-450a-85ca-9876240495db.png) | 
+  ![image](https://user-images.githubusercontent.com/56053290/214438247-3c09ed5a-d230-450a-85ca-9876240495db.png)<br> 
   ![image](https://user-images.githubusercontent.com/56053290/214438556-0c655f26-1dd7-4e3b-9251-3dca0f564691.png)
 
   
@@ -34,4 +34,5 @@
   
   <h1>Consultas</h1>
   
+  1 - Quais são as casas do norte?
   

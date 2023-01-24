@@ -22,7 +22,7 @@
   
   <h1>O que usamos?</h1>
 
-  ![image](https://user-images.githubusercontent.com/56053290/214438046-eee1e357-53b1-42b0-8257-cd0baa5f3d62.png)
+  ![image](https://user-images.githubusercontent.com/56053290/214438247-3c09ed5a-d230-450a-85ca-9876240495db.png)
   
   
   
